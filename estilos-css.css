@@ -1,0 +1,34 @@
+body {
+  background: white;
+  background-image: url(https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/19580/2ae2c2aaa3c9b3912769332306c5a292f4817b1a.jpg?1559248176);
+  background-size: auto 110vh;
+  font-family: Arial;
+  height: 100vh; 
+}
+.menu{
+  background-color: #77998855;
+ }
+.menu ul{
+  display: flex;
+  justify-content: space-around;
+}
+.menu li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+.site-title {
+text-align: center; 
+color: #dd00ff; 
+font-size: 70px;  
+}
+.site-subtitle{
+  text-align: center;
+  color: #198800;
+  font-style: italic;
+  font-size: 35px;
+}
